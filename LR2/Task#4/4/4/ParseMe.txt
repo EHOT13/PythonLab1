@@ -1,0 +1,13 @@
+Lorem Ipsum
+Lorem Ipsum
+Lorem Ipsum
+Lorem Ipsum
+type x = value
+Lorem Ipsum
+Lorem Ipsum
+      int Georg = 43
+Lorem Ipsum
+short Mira = 88.5
+Lorem Ipsum
+Lorem Ipsum
+qweq byte Yaposhka = 01
